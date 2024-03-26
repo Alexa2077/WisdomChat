@@ -1,6 +1,7 @@
 # WisdomChat 教育辅学垂直领域大模型
 
 教育辅学大模型 WisdomChat 
+
 ![alt text](./image/icon.png){:height="50%" width="50%"}
 
 WisdomChat 是一个基于大规模语言模型LLM的教育领域聊天机器人。
